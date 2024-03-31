@@ -1,5 +1,7 @@
 # EduLoyalty
 Full stack development project created using React, Flask and SQL DB to compute reward points for student activity
+
+
 ![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/37fee6c6-6e85-4c14-bdea-6c103899b51e)
 ![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/9383865c-88e0-4b41-a2f2-aeb005d7b993)
 ![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/8627e804-7cbf-4cfd-8fa8-5c111e7b29b4)
